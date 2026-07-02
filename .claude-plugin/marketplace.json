@@ -1,0 +1,12 @@
+{
+  "name": "dilmun-skills",
+  "owner": {
+    "name": "Dilmun (دلمون)",
+    "url": "https://github.com/dilmun"
+  },
+  "metadata": {
+    "description": "Open-source Claude Code skills, agents, and plugins by Dilmun — a software & design studio.",
+    "version": "0.1.0"
+  },
+  "plugins": []
+}
