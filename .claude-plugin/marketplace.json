@@ -8,5 +8,11 @@
     "description": "Open-source Claude Code skills, agents, and plugins by Dilmun — a software & design studio.",
     "version": "0.1.0"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "transcript-cut",
+      "source": "./plugins/transcript-cut",
+      "description": "Edit raw talking-video/voice-over footage by its transcript — cut filler words, silences, retakes at word-boundary precision. Fully local and key-free (whisperX + ffmpeg), Arabic-first."
+    }
+  ]
 }
