@@ -16,6 +16,7 @@ This repository is a [Claude Code plugin marketplace](https://code.claude.com/do
 | Plugin | What it does |
 | --- | --- |
 | [`transcript-cut`](plugins/transcript-cut/skills/transcript-cut/README.md) | Edit talking-video / voice-over footage by its transcript — cut fillers, silences and retakes at word precision. Local and key-free, Arabic-first. |
+| [`karaoke-captions`](plugins/karaoke-captions/skills/karaoke-captions/README.md) | Arabic-first word-timed karaoke captions + voiceover in one pass, with correct right-to-left word order. No speech recognition, no GPU, no API key. |
 
 ## Principles
 

@@ -13,6 +13,11 @@
       "name": "transcript-cut",
       "source": "./plugins/transcript-cut",
       "description": "Edit raw talking-video/voice-over footage by its transcript — cut filler words, silences, retakes at word-boundary precision. Fully local and key-free (whisperX + ffmpeg), Arabic-first."
+    },
+    {
+      "name": "karaoke-captions",
+      "source": "./plugins/karaoke-captions",
+      "description": "Arabic-first word-timed karaoke captions + voiceover in one pass — edge-tts word timing, no speech recognition, no GPU, no API key. Outputs mp3, words.json, RTL-safe burnable .ass, and Remotion captions.json."
     }
   ]
 }

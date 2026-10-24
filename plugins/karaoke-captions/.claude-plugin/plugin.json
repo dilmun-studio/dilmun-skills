@@ -1,0 +1,12 @@
+{
+  "name": "karaoke-captions",
+  "description": "Arabic-first word-timed karaoke captions + voiceover in one pass — edge-tts word timing, no speech recognition, no GPU, no API key. Outputs mp3, words.json, RTL-safe burnable .ass, and Remotion captions.json.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Dilmun (دلمون)",
+    "url": "https://github.com/dilmun-studio"
+  },
+  "homepage": "https://iqworkcommunity.com/?utm_source=github&utm_medium=manifest&utm_campaign=karaoke-captions",
+  "repository": "https://github.com/dilmun-studio/dilmun-skills",
+  "license": "MIT"
+}
