@@ -11,4 +11,4 @@ cut.py video.mp4 cuts.json out.mp4 --margin 0.15
 
 Requirements: `whisperx` (`uv tool install whisperx`) and `ffmpeg` on PATH. CPU is enough (`int8`).
 
-Built by **دلمون (Dilmun)** — the transcript-as-edit-surface idea exists in commercial tools (Descript) and key-gated skills (browser-use/video-use requires ElevenLabs); this is an independent key-free implementation. MIT licensed.
+Built by **دلمون (Dilmun)**, the team behind [Iraq Work Community](https://iqworkcommunity.com/?utm_source=github&utm_medium=readme&utm_campaign=transcript-cut) — the transcript-as-edit-surface idea exists in commercial tools (Descript) and key-gated skills (browser-use/video-use requires ElevenLabs); this is an independent key-free implementation. MIT licensed.

@@ -15,7 +15,7 @@ This repository is a [Claude Code plugin marketplace](https://code.claude.com/do
 
 | Plugin | What it does |
 | --- | --- |
-| _(first products coming soon)_ | |
+| [`transcript-cut`](plugins/transcript-cut/skills/transcript-cut/README.md) | Edit talking-video / voice-over footage by its transcript — cut fillers, silences and retakes at word precision. Local and key-free, Arabic-first. |
 
 ## Principles
 
@@ -39,4 +39,6 @@ plugins/<name>/                   # one self-contained plugin per folder
 
 ---
 
-MIT License — © 2026 Dilmun (دلمون)
+Built by Dilmun — the team behind [Iraq Work Community](https://iqworkcommunity.com/?utm_source=github&utm_medium=readme&utm_campaign=dilmun-skills), Iraq's job and free-learning community.
+
+MIT License — © 2026 Dilmun (دلمون) · [iqworkcommunity.com](https://iqworkcommunity.com/?utm_source=github&utm_medium=readme&utm_campaign=dilmun-skills)
