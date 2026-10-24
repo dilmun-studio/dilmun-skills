@@ -1,13 +1,13 @@
 # dilmun-skills
 
-Open-source **Claude Code skills, agents, and plugins** by [Dilmun (دلمون)](https://github.com/dilmun) — a software & design studio.
+Open-source **Claude Code skills, agents, and plugins** by [Dilmun (دلمون)](https://github.com/dilmun-studio) — a software & design studio.
 
 This repository is a [Claude Code plugin marketplace](https://code.claude.com/docs/en/plugin-marketplaces): each product lives in its own folder under `plugins/` and is registered in `.claude-plugin/marketplace.json`.
 
 ## Install
 
 ```
-/plugin marketplace add dilmun/dilmun-skills
+/plugin marketplace add dilmun-studio/dilmun-skills
 /plugin install <plugin-name>@dilmun-skills
 ```
 
